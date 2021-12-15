@@ -229,7 +229,7 @@ color: rgb(255, 255, 255);
             .text-box3{
                 width: 90%;
                 color: #fff;
-                position: fixed;
+                position: absolute;
                 top: 50%;
                 left: 50%;
                 transform: translate(-50%,-50%);
