@@ -230,14 +230,14 @@ color: rgb(255, 255, 255);
                 width: 90%;
                 color: #fff;
                 position: absolute;
-                top: 50%;
+                top: 60%;
                 left: 50%;
                 transform: translate(-50%,-50%);
                 text-align: center;
 
             }
             .text-box3 h1{
-                font-size: 55px;
+                font-size: 45px;
                 color: #fff;               
 
             }
@@ -248,7 +248,7 @@ color: rgb(255, 255, 255);
             }
             .text-box3 a{
                 color: rgb(210, 203, 238);
-                font-size: 35px;
+                font-size: 30px;
                 line-height: 50pt;
                 
             }
